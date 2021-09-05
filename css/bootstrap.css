@@ -4707,7 +4707,7 @@ textarea.form-control-lg {
 .accordion-flush .accordion-collapse {
   border-width: 0;
   background-color: #e9ecef;
-  opacity: 0.9;
+  opacity: 0.7;
   font-style: oblique;
 }
 .accordion-flush .accordion-item {
