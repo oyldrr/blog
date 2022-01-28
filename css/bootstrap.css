@@ -7399,8 +7399,9 @@ textarea.form-control-lg {
 }
 
 .px-1 {
+  margin: 5%;
   padding-right: 0.25rem !important;
-  padding-left: 0.25rem !important;
+  padding-left: 0.2rem !important;
 }
 
 .px-2 {
@@ -11244,8 +11245,9 @@ textarea.form-control-lg {
 }
 
   #custombtn {
-        width: 100%;
+        width: 75%;
         color: white;
+        border-radius: 50px;
       }
 
       #custombtn:hover {
