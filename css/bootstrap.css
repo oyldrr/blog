@@ -11245,13 +11245,28 @@ textarea.form-control-lg {
 }
 
   #custombtn {
-        width: 75%;
-        color: white;
-        border-radius: 50px;
-      }
+    width: 75%;
+    color: white;
+    border-radius: 50px;
+  }
 
-      #custombtn:hover {
-        color: darkgrey;  
-      }
+  #custombtn:hover {
+    color: darkgrey;  
+  }
+
+  .title {
+    font-family: monospace;
+  }
+
+  .aboutme {
+    font-family: monospace;
+    font-size: large;
+    padding: 0%;
+    margin: 0;
+  }
+
+  .aboutme li {
+    list-style-type: none;
+  }
 
 /*# sourceMappingURL=bootstrap.css.map */
