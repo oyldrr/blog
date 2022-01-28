@@ -2993,12 +2993,12 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  color: #fff;
+  color: rgb(37, 37, 37);
   background-color: #6c757d;
   border-color: #6c757d;
 }
 .btn-secondary:hover {
-  color: #fff;
+  color: rgb(0, 0, 0);
   background-color: #5c636a;
   border-color: #565e64;
 }
@@ -3419,6 +3419,9 @@ textarea.form-control-lg {
   font-size: 1.25rem;
   border-radius: 0.3rem;
 }
+
+
+
 
 .btn-sm, .btn-group-sm > .btn {
   padding: 0.25rem 0.5rem;
@@ -11239,5 +11242,15 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+  #custombtn {
+        width: 100%;
+      }
+
+      #custombtn:hover {
+        color: rgb(255, 255, 255);
+        border-color: black;
+        
+      }
 
 /*# sourceMappingURL=bootstrap.css.map */
